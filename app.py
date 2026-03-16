@@ -12,7 +12,7 @@ st.set_page_config(
 
 @st.cache_data(ttl=900)
 def carregar_dados():
-    return pd.read_csv("https://raw.githubusercontent.com/vqrca/dashboard_salarios_dados/refs/heads/main/dados-imersao-final.csv")
+    return pd.read_csv("https://raw.githubusercontent.com/thiagopregoamorim-cmd/imersao-dados-alura/refs/heads/main/dados-imersao-final.csv")
 
 df = carregar_dados()
 
