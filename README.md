@@ -2,3 +2,5 @@ App final criado na imersão de dados da Alura, outros conteudos estudados estã
 
 Link imersão:
 https://cursos.alura.com.br/imersoes/aulas/aula-04-c207
+
+Site foi publicado no streamlite (https://imersao-dados-thiago.streamlit.app/)
